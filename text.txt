@@ -1,0 +1,181 @@
+    profiles = [
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 15",
+            "name": "Default",
+        },
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 16",
+            "name": "Default",
+        },
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 17",
+            "name": "Default",
+        },
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 18",
+            "name": "Default",
+        },
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 19",
+            "name": "Default",
+        },
+        {
+            "path": r"C:\Users\JunYUNAN\AppData\Local\Google\Chrome\User Data\Profile 20",
+            "name": "Default",
+        },
+    ]
+
+
+
+
+
+    session not created: Chrome failed to start: exited normally.
+  (session not created: DevToolsActivePort file doesn't exist)
+  (The process started from chrome location C:\Users\JunYUNAN\Downloads\Chrome\chrome-win64\chrome.exe is no longer running, so ChromeDriver is assuming that Chrome has crashed.)
+
+
+
+  [
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755749957.464694,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_l",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755749924.095595,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "datr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "JkaXZhH-Nuo-b3xjMheEEDJR"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1732249953.991172,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "16T8izofCCkCPBWqj.AWVF_CCl5qnYeGboEy7y3JuA_hA.BmyWDa..AAA.0.0.BmyWJV.AWXHb0InqKc"
+    },
+    {
+        "domain": ".www.facebook.com",
+        "expirationDate": 1759033956,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "m_ls",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22100008028099153%22%3A%7B%22c%22%3A%7B%221%22%3A%22HCwAABbM0AMWnM_0jgQTBRaiyervnb0tAA%22%2C%222%22%3A%22GRwVQBwcGAAYABUEAAAWARYAFgAWAAAWKAA%22%2C%2295%22%3A%22HCwAABY4FpiK-5QEEwUWosnq7529LQA%22%7D%2C%22d%22%3A%22178d4b12-515a-40f9-81a8-2054da902419%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22qlvgp2%22%7D%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1756009575.671378,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "xs",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "42%3AVqVqwFx2Wi-shg%3A2%3A1721189959%3A-1%3A6226%3A%3AAcUmDEKl4ZyJp7FsTCP07lLbUQJcovi6JL0TMna_jA"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1756009575.671202,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "c_user",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "100008028099153"
+    },
+    {
+        "domain": ".facebook.com",
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "presence",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1724473956136%2C%22v%22%3A1%7D"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1725078755,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "dpr",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1.25"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755749957.464633,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "ps_n",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1755749956.873426,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "JkaXZskyEHWLYqhWUEDKv5nc"
+    },
+    {
+        "domain": ".facebook.com",
+        "expirationDate": 1725078755,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "wd",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "1536x730"
+    }
+]

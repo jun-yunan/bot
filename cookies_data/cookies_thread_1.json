@@ -1,0 +1,32 @@
+[
+    {
+        "domain": ".facebook.com",
+        "expiry": 1759041669,
+        "httpOnly": false,
+        "name": "_js_datr",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "d4DJZvV89jREQ5c5vVMr6Mae"
+    },
+    {
+        "domain": ".facebook.com",
+        "expiry": 1759041668,
+        "httpOnly": true,
+        "name": "sb",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "d4DJZi178rkkdxUmLeZ3k0mw"
+    },
+    {
+        "domain": ".facebook.com",
+        "expiry": 1732257668,
+        "httpOnly": true,
+        "name": "fr",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "004no7JMma2efUQMA..BmyYB3..AAA.0.0.BmyYB3.AWWfOTytQyI"
+    }
+]
